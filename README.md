@@ -32,8 +32,8 @@ ARTEMIS consists of two main components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/artemis.git
-   cd artemis
+   git clone https://github.com/rv-airob-masters/artemis-mcp.git
+   cd artemis-mcp
    ```
 
 2. Install dependencies:
